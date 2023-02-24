@@ -15,7 +15,7 @@
 ## Projects
 ### Here are some of my current projects:
 
-#### Project 1: Little Lemon Restaurant React Native App https://github.com/mertkilix/little-lemon
+#### Project 1: Little Lemon Restaurant React Native App [Click to go repository](https://github.com/mertkilix/little-lemon)
 #### Project 2: **will updated soon*
 #### Project 3: **will updated soon*
 #### Project 4: **will updated soon*
