@@ -9,7 +9,8 @@
   - C#
   - MySQL
 - Experience with web development frameworks and libraries such as:
-  - React
+  - React.js & React Native
+  - Cross platform mobile development
   - Bootstrap
   - Familiar with front-end, back-end and database concepts
 ## Projects
