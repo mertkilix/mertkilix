@@ -29,7 +29,9 @@
 #### Project 3: Little Lemon Restaurant React Native App
 - [Click to go repository](https://github.com/mertkilix/little-lemon)
 
-#### Project 4: 
+#### Project 4: **will be updated soon*
+- Currently creating social media platform with uses AI technologies, so users can create AI generated avatars. 
+
 
 ## Goals
 - Continue to improve my skills through personal projects and learning new technologies.
