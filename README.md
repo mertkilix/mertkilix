@@ -25,6 +25,13 @@
 - Created a full-stack web and mobile application (React Native Expo) that allows users to create stories using OpenAI's ChatGPT API.
 - Implemented text-to-speech functionality and image generation related to stories.
 - [Click to go repository](https://github.com/mertkilix/GalacticStoriesUI)
+ <img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/79a78e04-572d-4224-8ee1-12867c383923" width="100">
+
+<img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/a487efb7-f4ae-4ebf-a133-e9e9be913148" width="100">
+
+<img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/dbf71a78-45b6-4776-8f70-b7d19c532773" width="100">
+
+<img src="https://github.com/mertkilix/GalacticStoriesUI/assets/71731982/689c375d-b4eb-4cca-9439-727956ffdda5" width="100">
 
 #### Project 3: Little Lemon Restaurant React Native App
 - [Click to go repository](https://github.com/mertkilix/little-lemon)
