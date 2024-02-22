@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-### I am currently in the process of transitioning to become a software developer. I am excited to share my projects and progress with the community.
+### Recent Western Governors University graduate skilled in mobile and web development, with proficiency in Java, JavaScript (React and React Native), HTML, and CSS. Versed in REST-style APIs, version control, and agile methodologies. Eager to apply problem-solving and development skills in mobile application projects.
 
 ## Skills
 - Skilled in Java Spring Boot for backend development
