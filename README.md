@@ -46,4 +46,4 @@
 - Network and collaborate with other developers in the community.
 
 ## Contact
-- If you have any questions or would like to collaborate on a project, feel free to reach out to me via GitHub or my contact information provided in my profile or please contact me on [Linkedin](https://www.linkedin.com/in/mertkilix/) or [Twitter](https://www.twitter.com/mertkilix/)
+- If you have any questions or would like to collaborate on a project, feel free to reach out to me via GitHub or my contact information provided in my profile or please contact me on [Linkedin](https://www.linkedin.com/in/mert-kilic1/) or [Twitter](https://www.twitter.com/mertkilix/)
